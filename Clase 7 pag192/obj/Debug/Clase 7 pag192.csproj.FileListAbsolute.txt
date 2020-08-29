@@ -1,0 +1,6 @@
+C:\Users\Juan\Desktop\UDA\Laboratorio II\Clase 7 pag192\Clase 7 pag192\bin\Debug\Clase 7 pag192.exe.config
+C:\Users\Juan\Desktop\UDA\Laboratorio II\Clase 7 pag192\Clase 7 pag192\bin\Debug\Clase 7 pag192.exe
+C:\Users\Juan\Desktop\UDA\Laboratorio II\Clase 7 pag192\Clase 7 pag192\bin\Debug\Clase 7 pag192.pdb
+C:\Users\Juan\Desktop\UDA\Laboratorio II\Clase 7 pag192\Clase 7 pag192\obj\Debug\Clase 7 pag192.csprojResolveAssemblyReference.cache
+C:\Users\Juan\Desktop\UDA\Laboratorio II\Clase 7 pag192\Clase 7 pag192\obj\Debug\Clase 7 pag192.exe
+C:\Users\Juan\Desktop\UDA\Laboratorio II\Clase 7 pag192\Clase 7 pag192\obj\Debug\Clase 7 pag192.pdb
